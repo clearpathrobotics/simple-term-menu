@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(simple_term_menu)
+project(simple_term_menu_vendor)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
