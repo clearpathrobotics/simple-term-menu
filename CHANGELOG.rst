@@ -2,8 +2,8 @@
 Changelog for package simple_term_menu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.5.4 (2022-12-01)
+------------------
 * Renamed folder to simple_term_menu_vendor
 * Contributors: Roni Kreinin
 
