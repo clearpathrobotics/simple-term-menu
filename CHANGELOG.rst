@@ -2,6 +2,11 @@
 Changelog for package simple_term_menu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added ament_cmake_python buildtool_depend
+* Contributors: Roni Kreinin
+
 1.5.4 (2022-12-01)
 ------------------
 * Renamed folder to simple_term_menu_vendor
