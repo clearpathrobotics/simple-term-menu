@@ -2,8 +2,8 @@
 Changelog for package simple_term_menu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.5.6 (2022-12-15)
+------------------
 * Removed unused files
   Added testing dependencies
 * Contributors: Roni Kreinin
