@@ -8,8 +8,8 @@ Changelog for package simple_term_menu
   Added testing dependencies
 * Contributors: Roni Kreinin
 
-Forthcoming
------------
+1.5.7 (2022-12-19)
+------------------
 * 1.5.7
 * Tag fix
 * 1.5.6
